@@ -1,2 +1,2 @@
 # html-project
-baby's first html thing
+my first hmtl project
